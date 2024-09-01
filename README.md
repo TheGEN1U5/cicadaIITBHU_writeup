@@ -2,7 +2,7 @@
 _Fresher's digital treasure hunt by COPS_
 Writeup by GEN1U5
 
-#### 1. The Discord Video
+### 1. The Discord Video
 **Difficulty:** Noob, **Tags:** Reverse, Stego
 
 **Correct Path:**
@@ -15,7 +15,7 @@ Writeup by GEN1U5
 - The quote or its author had no signifigance other than the word ***reversed*** used in the quote.
 - There was one more admin (***Wizard***) on the discord server with the discord info set as a clan code (***#2GJLPCRYR***). The name of this clan is ***Kings of COC***. The wasy to avoid this was to listen the audio carefully, it talks about the name and not the code.
 
-#### 2. The COC Clan
+### 2. The COC Clan
 **Difficulty:** Easy, **Tags:** Web, Crypto
 
 **Correct Path:**
@@ -31,7 +31,7 @@ In the clan description, we notice 2 things:
 **Red Herrings:**
 - Unrelated messsages sent by some participants of the hunt also worked as unintentional diversions for some other participants. For example, the mention of ***Spiritrun*** on the clan chat spread like wildfire among participants and distracted a lot of people. The way to avoid this was to ignore the COC chat messages from newly joined clan members. _This remained a very big diversion throughout the hunt for a lot of participants._
 
-#### 3. The *inf0j0k3r_squ4d* subreddit
+### 3. The *inf0j0k3r_squ4d* subreddit
 **Difficulty:** Hard, **Tags:** Analysis, Crypto, Brute Force, (Stego, if red herring is followed)
 
 **Correct Path:**
@@ -50,7 +50,7 @@ The clue lies in the video ID but not the links themselves. When the video IDs a
 - The image also contained another sticky note open which had the name of the book and its author. Some participants also got diverted in that direction.
 - The final major red herring of this challenge wasthe barely visible outline of a country on the second image. (a high contrast image of the map has been attached) ![Map outline](https://i.imgur.com/SP9BX8B.png) A lot of participants interpreted it as a country's outline. Some even tried to use the VPN of the outlined country to open the YouTube links.
 
-#### 4. The pastebin link
+### 4. The pastebin link
 **Difficulty:** Easy, **Tags:** Analysis, Crypto, Search
 
 **Correct Path:**
@@ -64,7 +64,7 @@ The clue lies in the video ID but not the links themselves. When the video IDs a
 
 **Red Herrings:** No major red herrings in this challenge.
 
-#### 4. The GitHub repository
+### 5. The GitHub repository
 **Difficulty:** V. Hard, **Tags:** Analysis, Crypto, Forensics
 
 **Correct Path:**
@@ -132,7 +132,7 @@ The QR near the SBI Branch was valid and pointed to a google form which was ***T
 ## This was CICADA IITBHU
 (atleast the conventional way 🫣) *\*smirks\**
 
-#### Bonus: Loopholes and workarounds.
+### Bonus: Loopholes and workarounds.
 - The first hint from the video told us to search for info of the admins of the Discord server. During this, the name **Argus817** came in front of us.
 - Google searching the admin name ***directly*** brings us to challenge #4 and no previous knowledge (of challs 1, 2 and 3) is required to find the coordinates. (although answers of all 5 challs are asked in the google form and are important to find in order to win the hunt.)
 ##### This is the way our team followed. After we had the locations in our hand, we then further found the conventional way to reach the GitHub repo too. 😉 
