@@ -125,7 +125,7 @@ def main():
     2. **25°15'33.9"N 82°59'36.1"E** -> SBI Branch
     3. **25°15'41.3"N 82°59'22.2"E** -> SDP Library
 
-Upon reaching these locations IRL, one would search for QRs and scan them. The locations 1 and 3 were **Red Herrings** and their QRs pointed to [**Rickrolls**] ![rickroll](https://i.imgur.com/PBQWZPe.mp4).
+Upon reaching these locations IRL, one would search for QRs and scan them. The locations 1 and 3 were **Red Herrings** and their QRs pointed to [**Rickrolls**] ![rickroll](https://i.imgur.com/yed5Zfk.gif).
 
 The QR near the SBI Branch was valid and pointed to a google form which was ***THE FINAL STEP***.
 ## This was CICADA IITBHU
